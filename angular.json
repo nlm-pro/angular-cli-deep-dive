@@ -10,6 +10,10 @@
       "prefix": "app",
       "schematics": {},
       "architect": {
+        "describe": {
+          "builder": "./builders:describe",
+          "options": {}
+        },
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {

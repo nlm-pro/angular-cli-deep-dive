@@ -1,0 +1,9 @@
+{
+  "builders": {
+    "describe": {
+      "class": "./src/desc",
+      "schema": "./src/desc/schema.json",
+      "description": "Descriptor Builder"
+    }
+  }
+}
