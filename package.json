@@ -12,7 +12,9 @@
     "inspect": "node --max_old_space_size=8192 --inspect-brk ./node_modules/@angular/cli/bin/ng",
     "benchmark": "benchmark -- ./node_modules/@angular/cli/bin/ng",
     "builders:build": "tsc -p builders",
-    "builders:watch": "npm run builders:build -- --watch"
+    "builders:watch": "npm run builders:build -- --watch",
+    "descriptor": "ng run angular-cli-deep-dive:describe",
+    "predescriptor": "npm run builders:build"
   },
   "private": true,
   "dependencies": {
