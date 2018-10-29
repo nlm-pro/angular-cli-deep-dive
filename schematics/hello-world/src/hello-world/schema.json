@@ -6,7 +6,8 @@
   "properties": {
     "name": {
       "type": "string",
-      "description": "name of the file to create"
+      "description": "name of the file to create",
+      "x-prompt": "What name do you want to give to the generated file?"
     }
   },
   "required": []
