@@ -6,8 +6,7 @@
   "properties": {
     "name": {
       "type": "string",
-      "description": "name of the file to create",
-      "default": true
+      "description": "name of the file to create"
     }
   },
   "required": []
