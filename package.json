@@ -13,8 +13,8 @@
     "schematics": "schematics",
     "schematics:build": "tsc -p schematics/hello-world/tsconfig.json",
     "schematics:test": "npm run schematics:build && jasmine schematics/hello-world/src/**/*_spec.js",
-    "schematics:run-cli": "cd ./schematics/hello-world && schematics .:hello-world --name=test",
-    "schematics:run": "cd ./schematics/hello-world && ng g .:hello-world --dry-run --name=test"
+    "schematics:run-cli": "cd ./schematics/hello-world && schematics .:hello-world",
+    "schematics:run": "cd ./schematics/hello-world && ng g .:hello-world --dry-run"
   },
   "private": true,
   "dependencies": {
