@@ -21,7 +21,7 @@ If you find a bug or have a idea which could permit to enhance this project, ple
 
 | id | Date | Place | Event | Topic |  Ressources |
 | --- | --- | --- | --- | --- | --- |
-| AC | 2018-11-06 | London, UK | AngularConnect | [_Deep dive into Angular CLI 7_](https://angularconnect.com/talks#noel-mace) | slides: bit.ly/cli-deep-dive-ac |
+| AC | 2018-11-06 | London, UK | AngularConnect | [_Deep dive into Angular CLI 7_](https://angularconnect.com/talks#noel-mace) | slides: https://bit.ly/cli-deep-dive-ac |
 | CL | 2018-11-18 | Toulouse, FR | Capitole du Libre | [_Contribuer à un projet Github : example avec Angular CLI_](https://2018.capitoledulibre.org/programme/#contribuer-a-un-projet-github-exemple-avec-angular) | TODO |
 
 ## Topics
@@ -36,12 +36,13 @@ Not all topics are addressed during one of my related codelabs. Checkmarks are h
 | --- | --- | --- | --- | --- | --- |
 | CLI | update the cli from v6 to v7 | [cli-6] | [fix/cli-6] | :heavy_check_mark: |
 | CLI | debug the CLI using Chrome Dev Tools | [master] | N/A |  | :heavy_check_mark: |
-| CLI | try the @angular-devkit/benchmark package | [master] | N/A | | :heavy_check_mark: |
+| CLI | try the @angular-devkit/benchmark package | [master] | N/A | | :question: |
 | CLI / architect | Solve a budget overrun | [budget] | [fix/budget] | :heavy_check_mark: |
 | schematics | add @angular/material to your project | [add-material] | N/A | 
 | schematics | add Prettier to your project | [add-prettier] | N/A | :heavy_check_mark: | 
-| schematics | your first schematic | TODO | TODO |  | :heavy_check_mark: |
-| architect | your first architect custom builder | [architect] | [fix/architect] | :heavy_check_mark: | :heavy_check_mark: |
+| schematics | your first schematic | [first-schematics] | N/A |  | :question:|
+| schematics | schematics prompt | [first-schematics] | [schematics-prompt] | :heavy_check_mark: |  |
+| architect | your first architect custom builder | [architect] | [fix/architect] | :heavy_check_mark: | :question: |
 
 [master]: https://github.com/noelmace/angular-cli-deep-dive/tree/master
 [architect]: https://github.com/noelmace/angular-cli-deep-dive/tree/architect
@@ -52,6 +53,8 @@ Not all topics are addressed during one of my related codelabs. Checkmarks are h
 [budget]: https://github.com/noelmace/angular-cli-deep-dive/tree/budget
 [fix/budget]: https://github.com/noelmace/angular-cli-deep-dive/tree/fix/budget
 [add-prettier]: https://github.com/noelmace/angular-cli-deep-dive/tree/add-prettier
+[first-schematics]: https://github.com/noelmace/angular-cli-deep-dive/tree/first-schematics
+[schematics-prompt]: https://github.com/noelmace/angular-cli-deep-dive/tree/schematics-prompt
 
 ## Angular CLI doc
 
