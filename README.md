@@ -26,7 +26,7 @@ If you find a bug or have a idea which could permit to enhance this project, ple
 
 ## Topics
 
-Topics are handled via git branches. Clone this project, and use `git checkout` in order to use them.
+Some topics are handled via git branches. Clone this project, and use `git checkout` in order to use them.
 
 Not all topics are addressed during one of my related codelabs. Checkmarks are here to tell you want we will do during the one your are attending.
 
@@ -35,18 +35,17 @@ Not all topics are addressed during one of my related codelabs. Checkmarks are h
 | Topics | Description | Branch | Solution | AC | CL |
 | --- | --- | --- | --- | --- | --- |
 | CLI | update the cli from v6 to v7 | [cli-6] | [fix/cli-6] | :heavy_check_mark: |
-| CLI | inspect / debug the CLI using Chrome Dev Tools | [debug] | N/A |  | :heavy_check_mark: |
-| CLI | try the @angular-devkit/benchmark package | [benchmark] | N/A | | :heavy_check_mark: |
+| CLI | debug the CLI using Chrome Dev Tools | [master] | N/A |  | :heavy_check_mark: |
+| CLI | try the @angular-devkit/benchmark package | [master] | N/A | | :heavy_check_mark: |
 | CLI / architect | Solve a budget overrun | [budget] | [fix/budget] | :heavy_check_mark: |
 | schematics | add @angular/material to your project | [add-material] | N/A | 
 | schematics | add Prettier to your project | [add-prettier] | N/A | :heavy_check_mark: | 
 | schematics | your first schematic | TODO | TODO |  | :heavy_check_mark: |
 | architect | your first architect custom builder | [architect] | [fix/architect] | :heavy_check_mark: | :heavy_check_mark: |
 
-[debug]: https://github.com/noelmace/angular-cli-deep-dive/tree/debug
+[master]: https://github.com/noelmace/angular-cli-deep-dive/tree/master
 [architect]: https://github.com/noelmace/angular-cli-deep-dive/tree/architect
 [fix/architect]: https://github.com/noelmace/angular-cli-deep-dive/tree/fix/architect
-[benchmark]:  https://github.com/noelmace/angular-cli-deep-dive/tree/benchmark
 [add-material]:  https://github.com/noelmace/angular-cli-deep-dive/tree/add-material
 [cli-6]: https://github.com/noelmace/angular-cli-deep-dive/tree/cli-6
 [fix/cli-6]: https://github.com/noelmace/angular-cli-deep-dive/tree/fix/cli-6
