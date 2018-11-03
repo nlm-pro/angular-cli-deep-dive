@@ -1,4 +1,5 @@
 {
+  "$schema": "../node_modules/@angular-devkit/architect/src/builders-schema.json",
   "builders": {
     "describe": {
       "class": "./src/desc",

@@ -40,3 +40,4 @@ Thumbs.db
 
 # Builders
 /builders/**/*.js
+/description.json

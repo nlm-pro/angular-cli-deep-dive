@@ -1,6 +1,18 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema",
   "title": "Descriptor builder",
   "description": "Descriptor builder options",
   "properties": {
+    "path": {
+      "type": "string",
+      "description": "The full path to the file to generate, relative to the current workspace.",
+      "$valueDescription": "fileName",
+      "default": "description.json"
+    },
+    "withDev": {
+      "type": "boolean",
+      "description": "Also record development dependencies",
+      "default": false
+    }
   }
 }
