@@ -131,5 +131,10 @@
       }
     }
   },
-  "defaultProject": "angular-cli-deep-dive"
+  "defaultProject": "angular-cli-deep-dive",
+  "schematics": {
+    "@schematics/angular:component": {
+        "changeDetection": "OnPush"
+    }
+  }
 }
