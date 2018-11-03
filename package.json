@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start:prod": "ng serve --prod --source-map --base-href=\"/foo\" -o --port=4201",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
