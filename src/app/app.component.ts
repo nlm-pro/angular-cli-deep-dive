@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { filter } from 'rxjs/internal/operators';
+import { filter } from 'rxjs/operators';
 import { range } from 'rxjs';
 
 @Component({
