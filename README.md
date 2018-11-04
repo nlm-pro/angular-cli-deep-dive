@@ -35,6 +35,8 @@ Not all topics are addressed during one of my related codelabs. Checkmarks are h
 | Topics | Description | Branch | Solution | AC | CL |
 | --- | --- | --- | --- | --- | --- |
 | CLI | update the cli from v6 to v7 | [cli-6] | [fix/cli-6] | :heavy_check_mark: |
+| CLI | serve command options | [master] | [master] | :heavy_check_mark: |
+| CLI | schematic configuration | [no-schematics] | [master] | :heavy_check_mark: |
 | CLI | debug the CLI using Chrome Dev Tools | [master] | N/A |  | :heavy_check_mark: |
 | CLI | try the @angular-devkit/benchmark package | [master] | N/A | | :question: |
 | CLI / architect | Solve a budget overrun | [budget] | [fix/budget] | :heavy_check_mark: |
@@ -55,6 +57,7 @@ Not all topics are addressed during one of my related codelabs. Checkmarks are h
 [add-prettier]: https://github.com/noelmace/angular-cli-deep-dive/tree/add-prettier
 [first-schematics]: https://github.com/noelmace/angular-cli-deep-dive/tree/first-schematics
 [schematics-prompt]: https://github.com/noelmace/angular-cli-deep-dive/tree/schematics-prompt
+[no-schematics]: https://github.com/noelmace/angular-cli-deep-dive/tree/no-schematics
 
 ## Angular CLI doc
 
