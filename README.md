@@ -1,8 +1,6 @@
-# Angular CLI Examples
+# Angular CLI Deep Dive
 
-**Angular example project with exercices.**
-
-Created for and used by attendees to my Angular CLI courses / workshops / codelabs.
+Examples and exercices related to my Angular CLI courses/workshops/codelabs, tutorials and blog posts.
 
 Please, do not hesitate to [send me a tweet or DM][tweet] if you have any question or feedback about this topics.
 
@@ -22,7 +20,7 @@ If you find a bug or have a idea which could permit to enhance this project, ple
 | id | Date | Place | Event | Topic |  Ressources |
 | --- | --- | --- | --- | --- | --- |
 | AC | 2018-11-06 | London, UK | AngularConnect | [_Deep dive into Angular CLI 7_](https://angularconnect.com/talks#noel-mace) | slides: https://bit.ly/cli-deep-dive-ac |
-| CL | 2018-11-18 | Toulouse, FR | Capitole du Libre | [_Contribuer à un projet Github : example avec Angular CLI_](https://2018.capitoledulibre.org/programme/#contribuer-a-un-projet-github-exemple-avec-angular) | TODO |
+| CL | 2018-11-18 | Toulouse, FR | Capitole du Libre | [_Contribuer à un projet Github : example avec Angular CLI_](https://2018.capitoledulibre.org/programme/#contribuer-a-un-projet-github-exemple-avec-angular) |  |
 
 ## Topics
 
