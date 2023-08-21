@@ -1,13 +1,10 @@
 # Angular CLI Deep Dive
 
-Examples and exercices related to my Angular CLI courses/workshops/codelabs, tutorials and blog posts.
+Examples and exercises related to my Angular CLI courses/workshops/codelabs, tutorials and blog posts.
 
-Please, do not hesitate to [send me a tweet or DM][tweet] if you have any question or feedback about this topics.
+If you find a bug or have an idea which could permit to enhance this project, please [open an issue][new-issue].
 
-If you find a bug or have a idea which could permit to enhance this project, please [open an issue][new-issue].
-
-[new-issue]: https://github.com/noelmace/angular-cli-deep-dive/issues/new
-[tweet]: https://twitter.com/noel_mace
+[new-issue]: https://github.com/nlm-pro/angular-cli-deep-dive/issues/new
 
 ## Quick Start
 
@@ -44,18 +41,18 @@ Not all topics are addressed during one of my related codelabs. Checkmarks are h
 | schematics | schematics prompt | [first-schematics] | [schematics-prompt] | :heavy_check_mark: |  |
 | architect | your first architect custom builder | [architect] | [fix/architect] | :heavy_check_mark: | :question: |
 
-[master]: https://github.com/noelmace/angular-cli-deep-dive/tree/master
-[architect]: https://github.com/noelmace/angular-cli-deep-dive/tree/architect
-[fix/architect]: https://github.com/noelmace/angular-cli-deep-dive/tree/fix/architect
-[add-material]:  https://github.com/noelmace/angular-cli-deep-dive/tree/add-material
-[cli-6]: https://github.com/noelmace/angular-cli-deep-dive/tree/cli-6
-[fix/cli-6]: https://github.com/noelmace/angular-cli-deep-dive/tree/fix/cli-6
-[budget]: https://github.com/noelmace/angular-cli-deep-dive/tree/budget
-[fix/budget]: https://github.com/noelmace/angular-cli-deep-dive/tree/fix/budget
-[add-prettier]: https://github.com/noelmace/angular-cli-deep-dive/tree/add-prettier
-[first-schematics]: https://github.com/noelmace/angular-cli-deep-dive/tree/first-schematics
-[schematics-prompt]: https://github.com/noelmace/angular-cli-deep-dive/tree/schematics-prompt
-[no-schematics]: https://github.com/noelmace/angular-cli-deep-dive/tree/no-schematics
+[master]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/master
+[architect]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/architect
+[fix/architect]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/fix/architect
+[add-material]:  https://github.com/nlm-pro/angular-cli-deep-dive/tree/add-material
+[cli-6]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/cli-6
+[fix/cli-6]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/fix/cli-6
+[budget]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/budget
+[fix/budget]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/fix/budget
+[add-prettier]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/add-prettier
+[first-schematics]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/first-schematics
+[schematics-prompt]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/schematics-prompt
+[no-schematics]: https://github.com/nlm-pro/angular-cli-deep-dive/tree/no-schematics
 
 ## Angular CLI doc
 
